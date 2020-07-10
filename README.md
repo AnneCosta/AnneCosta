@@ -1,4 +1,4 @@
-## Olá, visitante! 👩‍💻
+## Olá, visitante! 👋👩‍💻
 
 Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o profundo aprendizado voltado para o front-end, com um grande entusiasmo pelo back-end. 
 Nessa tragetória de estudos, encontrei uma imensa admiração por UX/UI e Design Gráfico.
