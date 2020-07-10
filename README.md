@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey ho! 👋
+Sou uma estudante de Ciências da Computação, que tem como foco o aprendizado voltado para o front-end. 
+Sou aspirante a design e estou sempre aberta a novos aprendizados!
 
 <!--
 **AnneCosta/AnneCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
