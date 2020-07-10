@@ -1,6 +1,16 @@
 ## Olá, visitante! 👩‍💻
 
-<!--Sou uma estudante de Ciências da Computação, que tem como foco o aprendizado voltado para o front-end, com um grande entusiasmo pelo back-end. Nessa tragetória de estudos, me tornei aspirante a UX/UI e estou sempre aberta a novos aprendizados!-->
+Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o profundo aprendizado voltado para o front-end, com um grande entusiasmo pelo back-end. 
+Nessa tragetória de estudos, encontrei uma imensa admiração por UX/UI e Design Gráfico.
+Como uma amante de livros e bebidas quentes, procuro contar histórias através de códigos-fonte, trazendo mais personalidade aos meus projetos pessoais.
+
+#### Aqui estão alguns lugares em que você pode me encontrar:
+
+- **Discord**: ann-e#2658
+- [Telegram](https://t.me/unmannerly)
+- [Twitter](https://twitter.com/annemustlive)
+- [Instagram](https://instagram.com/annesmutlive)
+
 
 
 <!--
