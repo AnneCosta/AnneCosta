@@ -4,13 +4,13 @@ Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o prof
 Nessa tragetória de estudos, encontrei uma imensa admiração por UX/UI e Design Gráfico.
 Como uma amante de livros e bebidas quentes, procuro contar histórias através de códigos-fonte, trazendo mais personalidade aos meus projetos pessoais.
 
-#### Aqui estão alguns lugares em que você pode me encontrar:
+#### Aqui estão alguns lugares em que você pode me encontrar:<br><sup>All icons by Icons8</sup>
 
 [![alt text](https://img.icons8.com/bubbles/50/000000/discord-logo.png)](https://discord.com/users/516423474097553417)
 [![alt text](https://img.icons8.com/bubbles/50/000000/twitter-circled.png)](https://twitter.com/annemustlive)
 [![alt text](https://i.imgur.com/GmROBUv.png)](https://t.me/unmannerly)
 [![alt text](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://instagram.com/annemustlive)
-<br><sup>All icons by Icons8</sup>
+
 <!--
 **AnneCosta/AnneCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
