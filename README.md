@@ -10,7 +10,7 @@ Como uma amante de livros e bebidas quentes, procuro contar histórias através 
 [![alt text](https://img.icons8.com/bubbles/50/000000/twitter-circled.png)](https://twitter.com/annemustlive)
 [![alt text](https://i.imgur.com/GmROBUv.png)](https://t.me/unmannerly)
 [![alt text](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://instagram.com/annemustlive)
-
+<br><sup>All icons by Icons8</sup>
 <!--
 **AnneCosta/AnneCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
