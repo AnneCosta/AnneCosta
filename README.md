@@ -6,10 +6,11 @@ Como uma amante de livros e bebidas quentes, procuro contar histórias através 
 
 #### Aqui estão alguns lugares em que você pode me encontrar:
 
-[![alt text](https://img.icons8.com/bubbles/50/000000/discord-logo.png)](https://discord.com/users/516423474097553417)
-[![alt text](https://img.icons8.com/bubbles/50/000000/twitter-circled.png)](https://twitter.com/annemustlive)
-[![alt text](https://i.imgur.com/GmROBUv.png)](https://t.me/unmannerly)
-[![alt text](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://instagram.com/annemustlive)
+[![Discord Logo](https://img.icons8.com/bubbles/50/000000/discord-logo.png)](https://discord.com/users/516423474097553417)
+[![Twitter Logo](https://img.icons8.com/bubbles/50/000000/twitter-circled.png)](https://twitter.com/annemustlive)
+[![Telegram Logo](https://i.imgur.com/GmROBUv.png)](https://t.me/unmannerly)
+[![Instagram Logo](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://instagram.com/annemustlive)
+[![LinkedIn Logo](https://img.icons8.com/bubbles/50/000000/linkedin.png)](https://www.linkedin.com/in/fabiannecosta/)
 
 *<sup>All icons by Icons8</sup>*
 <!--
