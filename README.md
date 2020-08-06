@@ -6,7 +6,6 @@ Como uma amante de livros e bebidas quentes, procuro contar histórias através 
 
 #### Aqui estão alguns lugares em que você pode me encontrar:
 
-[![Discord Logo](https://img.icons8.com/bubbles/50/000000/discord-logo.png)](https://discord.com/users/516423474097553417)
 [![Twitter Logo](https://img.icons8.com/bubbles/50/000000/twitter-circled.png)](https://twitter.com/annemustlive)
 [![Telegram Logo](https://i.imgur.com/GmROBUv.png)](https://t.me/unmannerly)
 [![Instagram Logo](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://instagram.com/annemustlive)
