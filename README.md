@@ -1,6 +1,6 @@
 ## Olá, visitante! 👋👩‍💻
 
-Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o profundo aprendizado voltado para o front-end, com um grande entusiasmo pelo back-end. 
+Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o aprendizado de front-end, com um grande entusiasmo pelo back-end. 
 Nessa tragetória de estudos, encontrei uma imensa admiração por UX/UI e Design Gráfico.
 Como uma amante de livros e bebidas quentes, procuro contar histórias através de códigos-fonte, trazendo mais personalidade aos meus projetos pessoais.
 
