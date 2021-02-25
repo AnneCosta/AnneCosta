@@ -6,8 +6,8 @@ Como uma amante de livros e bebidas quentes, procuro contar histórias através 
 
 #### Aqui estão alguns lugares em que você pode me encontrar:
 
-<a href="https://twitter.com/annemustlive" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"> </a>
-<a href="https://instagram.com/annemustlive" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/instagram.png"> </a>
-<a href="https://www.linkedin.com/in/fabiannecosta/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"> </a>
+<a href="https://twitter.com/annemustlive" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"> </a>
+<a href="https://instagram.com/annemustlive" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/instagram.png"> </a>
+<a href="https://www.linkedin.com/in/fabiannecosta/" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"> </a>
 
 *<sup>All icons by Icons8</sup>*
