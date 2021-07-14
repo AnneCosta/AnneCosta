@@ -12,7 +12,7 @@ const bio.aboutMe = {
   techInfo  : 
   {
     front   : [ "Vue.js", "Nuxt.js", "Materialize", "Tailwind", "Bootstrap" ],
-    back    : "Node.js",
+    back    : [ "Node.js", "Express" ],
   },
   database  : [ "MySQL", "MongoDB" ],
   learning  : [ "React", "Python", "GDScript" ],
