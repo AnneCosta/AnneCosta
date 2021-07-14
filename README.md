@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, visitor! 👋👩‍💻 </h2>
-<img align="right" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
+
 
 ```js
 import bio from '../Anne/Informations';
