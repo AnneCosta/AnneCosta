@@ -22,9 +22,9 @@ const bio.aboutMe = {
 export default Anne;
 ```
 <div align="center">
-<a href="https://twitter.com/annemustlive" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"></a> 
-<a href="https://instagram.com/annemustlive" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/instagram.png"></a> 
-<a href="https://www.linkedin.com/in/fabiannecosta/" target="blank"> <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"></a> 
+<a href="https://twitter.com/annemustlive" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"></a> 
+<a href="https://instagram.com/annemustlive" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/instagram.png"></a> 
+<a href="https://www.linkedin.com/in/fabiannecosta/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"></a> 
 </div>
 
 <!-- Sou uma estudante de Lic. em Ciências da Computação, que tem como foco o aprendizado de front-end, com um grande entusiasmo pelo back-end. 
