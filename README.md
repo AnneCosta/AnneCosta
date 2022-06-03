@@ -14,7 +14,7 @@ const bio.aboutMe = {
     front   : [ "Vue.js", "Nuxt.js", "Materialize", "Tailwind", "Bootstrap" ],
     back    : [ "Node.js", "Express" ],
   },
-  database  : [ "MySQL", "MongoDB" ],
+  database  : [ "MySQL" ],
   learning  : [ "React", "Python", "GDScript" ],
   challenge : "Learn about Python (Numpy/Pandas) and React (Next)"
 }
