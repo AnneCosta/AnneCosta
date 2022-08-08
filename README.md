@@ -4,22 +4,29 @@
 ```js
 import bio from '../Anne/Informations';
 
-const bio.aboutMe = {
-  name      : "Fabianne Costa",
-  aka       : "Anne",
-  pronouns  : [ "She", "Her" ] ,
-  code      : [ "HTML", "CSS", "Javascript" ],
-  techInfo  : 
-  {
-    front   : [ "Vue.js", "Nuxt.js", "Materialize", "Tailwind", "Bootstrap" ],
-    back    : [ "Node.js", "Express" ],
-  },
-  database  : [ "MySQL" ],
-  learning  : [ "React", "Python", "GDScript" ],
-  challenge : "Learn about Python (Numpy/Pandas) and React (Next)"
+export function Anne() {
+    const aboutMe = {
+      name      : "Fabianne Costa",
+      aka       : "Anne",
+      pronouns  : [ "She", "Her" ] ,
+      code      : [ "HTML", "CSS", "Javascript" ],
+      techInfo  : 
+      {
+        front   : [ "Vue.js", "Nuxt.js", "Materialize", "Tailwind", "Bootstrap" ],
+        back    : [ "Node.js", "Express" ],
+      },
+      database  : [ "MySQL" ],
+      learning  : [ "React", "Python", "GDScript" ],
+      challenge : "Learn about Python (Numpy/Pandas) and React (Next/Vite)"
+    }
+    
+    return (
+      <>
+        <Bio info="aboutMe" />
+      </>
+    )
 }
 
-export default Anne;
 ```
 <div align="center">
 <a href="https://twitter.com/annemustlive" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"></a> 
