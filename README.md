@@ -2,7 +2,7 @@
 
 
 ```js
-import Bio from '../Anne/Informations';
+import Bio from '@Informations/Bio';
 
 export function Anne() {
     const aboutMe = {
@@ -21,18 +21,19 @@ export function Anne() {
     }
     
     return (
-      <>
-        <Bio info={aboutMe} />
-      </>
+        <>
+            <Bio info={aboutMe} />
+        </>
     )
 }
 
 ```
+
 <div align="center">
-    <a href="https://instagram.com/annes.io" target="_blank" rel="noopener noreferrer"> 
+    <a href="https://instagram.com/annes.io" target="_blank" style="text-decoration: none!important"> 
         <img src="https://img.icons8.com/bubbles/50/000000/instagram.png">
-    </a> 
-    <a href="https://www.linkedin.com/in/fabiannecosta/" target="_blank" rel="noopener noreferrer"> 
+    </a>
+    <a href="https://www.linkedin.com/in/fabiannecosta/" target="_blank" style="text-decoration: none!important"> 
         <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png">
-    </a> 
+    </a>
 </div>
